@@ -5,6 +5,8 @@
  
 ## Nutzwertanalyse.ods
 - Ermittle das am besten geeignete foo für bar
+- zwei Beispiele in der Datei
+- Tabellen sind zwar geschützt, aber ohne Passwort, damit man nicht zufällig die Formeln zerdeppert
 - keine Makros (funktioniert in LibreOffice und in Excel)
 
 ## MKIP 01 - 04 Aufgabe Nutzwertanalyse.ods
